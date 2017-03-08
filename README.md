@@ -24,6 +24,8 @@ TabView is used to change different pages in android app，such as personal chat
             }
         });
 # Result
+<img alt="screen shot"
+       src="https://github.com/rockykou/tabview/blob/master/TabView/screenshots/screenshot1.jpg" />
 # License
 
     Copyright 2017 florent37, Inc.
