@@ -61,9 +61,9 @@ public class MainActivity extends AppCompatActivity {
         mTabView2 = (TabView) findViewById(R.id.tabview2);
         List<TabEntity> textlist = new ArrayList<TabEntity>();
         TabEntity tab1 = new TabEntity();
-        tab1.tabName = "进行中";
+        tab1.tabName = "未开始";
         TabEntity tab2 = new TabEntity();
-        tab2.tabName = "未开始";
+        tab2.tabName = "进行中";
         TabEntity tab3 = new TabEntity();
         tab3.tabName = "已结束";
         textlist.add(tab1);
